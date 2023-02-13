@@ -1,0 +1,4 @@
+[submodule "testExternal"]
+	path = testExternal
+	url = https://github.com/barissmutluu/testExternal.git
+	branch = externalRK
